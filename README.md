@@ -1,0 +1,2 @@
+# mysteries
+Mysteries blog.

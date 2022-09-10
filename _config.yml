@@ -27,7 +27,7 @@ baseurl: "/mysteries" # the subpath of your site, e.g. /blog
 url: "https://danshee.com" # the base hostname & protocol for your site, e.g. http://example.com
 #github_username:  danshee
 #linkedin_username: daniel-pietsch
-twitter_username: danpietsch
+#twitter_username: danpietsch
 
 # Build settings
 theme: minima

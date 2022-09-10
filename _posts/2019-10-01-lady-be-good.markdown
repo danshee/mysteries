@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  '“Lady Be Good” Will Not Return; or, What Became of Staff Sergeant Vernon L. Moore?'
-date:   2019-02-13 12:32:51 -0700
+date:   2019-10-01 -0700
 categories:
 ---
 **Summary**

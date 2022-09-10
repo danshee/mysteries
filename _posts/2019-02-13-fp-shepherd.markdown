@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "In 1909 F.P. Shepherd vanished into the fog of Yosemite National Park"
-date:   2019-02-13 12:32:51 -0700
+date:   2019-02-13 -0700
 categories:
 ---
 F. P. Shepherd is the first person known to have completely vanished inside of Yosemite National Park, according to the book *Off the Wall: Death in Yosemite* by Michael P. Ghiglieri and Charles R. Farabee (an excellent book if you're interested in the mysteries of Yosemite National Park told by Search and Rescue workers).

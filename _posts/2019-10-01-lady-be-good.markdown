@@ -70,3 +70,7 @@ What do you think became of Staff Sergeant Vernon L. Moore?
 
 
 <https://www.airspacemag.com/history-of-flight/case-closed-2267596/>
+
+----
+
+arqpajp

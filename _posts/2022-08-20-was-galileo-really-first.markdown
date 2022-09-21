@@ -87,7 +87,7 @@ Smyth writes:
 > Yet in spite of such authentic and minute details, there are some who assert that the satellites had been previously seen, both by Jansen and Lippersheim.  Baron de Zach attributed the discovery to Thomas Harriot; but this has been confuted by my late friend, Professor Rigaud …
 
 
-**OP Note:** It is not clear to me if “previously seen” means with a telescope or with the naked eye.
+**Note:** It is not clear to me if “previously seen” means with a telescope or with the naked eye.
 
 
 Smyth writes:
@@ -114,7 +114,7 @@ Smyth describes another instance of someone seeing a moon:
 > M. Mӓdler mentions that the post-master, Nernst, saw *one* satellite of Jupiter with the naked eye, and drew a diagram of its position; but when the telescope was applied, it was found that three of the satellites had nearly closed, and their united brightness this drew the piercing eye of M. Nernst.
 
 
-**OP Note:**  I’ll confess, I found Smyth’s text to be rather confusing to read.
+**Note:**  I’ll confess, I found Smyth’s text to be rather confusing to read.
 
 
 

@@ -5,7 +5,7 @@ date:   2020-03-08 -0700
 categories:
 ---
 
-While I don't believe in the supernatural, I do like the stories.  I thought I’d share it since there’s little information about this creature online.
+While I don't believe in the supernatural, I do like the stories.  I thought I’d share this one since it is creepy and unique and there’s little information about this creature online.
 
 ----
 

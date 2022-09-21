@@ -38,7 +38,7 @@ To this Hughs retorts:
 
 Hughes article goes on to say that:
 
-> Xi Ze-zong, of the Institute for the History of Natural Sciences, Academia Sinica, has recently reported in *Chinese Astronomy and Astrophysics (5, 242; 1981)* that Gan De observed Ganymede in the summer of 365 BC.
+> Xi Ze-zong, of the Institute for the History of Natural Sciences, Academia Sinica, has recently reported in *Chinese Astronomy and Astrophysics* that Gan De observed Ganymede in the summer of 365 BC.
 
 
 *Gan De* was an ancient Chinese astronomer and astrologer who lived during the 4th century BC.  Although all of his writings are lost, fragments of his books *On Jupiter* and *Astronomical Star Prognostication* can be found in the 8th-century CE text *Great Tang Treatise on Astrology of the Kaiyuan Era*.

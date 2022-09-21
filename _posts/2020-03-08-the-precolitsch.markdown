@@ -5,7 +5,9 @@ date:   2020-03-08 -0700
 categories:
 ---
 
-I thought I’d share it since there’s little information about this creature online.
+While I don't believe in the supernatural, I do like the stories.  I thought I’d share it since there’s little information about this creature online.
+
+----
 
 This story is taken from the September 1913 edition of *The Occult Review*, which in turn says the story was recorded in a “German psychological publication, some sixty years ago.”
 

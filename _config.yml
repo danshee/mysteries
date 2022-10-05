@@ -22,7 +22,7 @@ title: Danshee / Mysteries
 author: "Daniel Pietsch"
 # email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Various mysteries I find interesting enough to write about.
+  Various mysteries (and some weird stories) that I find interesting enough to write about.
 baseurl: "/mysteries" # the subpath of your site, e.g. /blog
 url: "https://danshee.com" # the base hostname & protocol for your site, e.g. http://example.com
 #github_username:  danshee

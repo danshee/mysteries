@@ -92,7 +92,7 @@ Michael Madden was never seen again.
 
 *Eagle Canyon Flyer:*
 
-<https://eaglecanyonflyer.wordpress.com/2019/05/20/the-donnell-vista-missing-three/>
+<https://web.archive.org/web/20200118173617/https://eaglecanyonflyer.wordpress.com/2019/05/20/the-donnell-vista-missing-three/>
 
 
 *Nita Mary Mayo Charley Project:*

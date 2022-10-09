@@ -1,0 +1,110 @@
+---
+layout: post
+title:  "Obstruction 8096; or, The Long Branch Locomotive Graveyard"
+date:   2020-05-02 -0700
+categories:
+---
+
+*Obstruction 8096* was so named when it came to the attention of the *National Oceanic and Atmospheric Administration* (NOAA) in 1989.
+
+
+NOAA was conducting a survey off the New Jersey coast for submerged navigational obstacles on the ocean floor.  Side Scan sonar revealed a hit in 90 feet of water.  As the sonar was unable to reveal how high the object was, divers were sent to investigate.
+
+
+They discovered two steam railroad locomotives standing upright side by side on the ocean floor.
+
+
+Investigation revealed that local divers were aware of the site and stated that the locomotives were cargo from the transport ship *Arundo*, which was torpedoed by a German U-boat during World War II (the locomotives were originally discovered in 1985 by diver Paul Hepler who was mapping the bottom with a magnetometer).
+
+
+NOAA logged the site as a non-dangerous submerged obstruction with record number 8096 in the *Automated Wreck and Obstruction Information System* (AWOIS).
+
+
+Original AWOIS record:
+
+> FE331SS/89--OPR-C147-HE-89; CONTACT #2; DIVER INVESTIGATION REVEALED TWO STEAM RAILROAD LOCOMOTIVES RESTING UPRIGHT SIDE BY SIDE ON the BOTTOM; BOTH WERE COVERED WITH MARINE VEGETATION AND CORAL; SHOALEST POINT OF the TWO LOCOMOTIVES WAS APPROXIMATELY 18 FT OFF A SANDY BOTTOM.
+> 
+> (NAD83); LOCAL DIVERS STATED THAT the LOCOMOTIVES WERE CARGO FROM the TRANSPORT SHIP ARUNDO, WHICH WAS TORPEDOED AND SUNK BY A GERMAN U-BOAT, U-297; EVALUATOR RECOMMENDED CHARTING A NONDANGEROUS SUBMERGED OBSTRUCTION WITH A KNOWN DEPTH OF 69 FT AS SHOWN ON PRESENT SURVEY. (ENTERED MSD 7/91)
+
+
+However, the Arundo’s locomotives can be found near the wreck of the Arundo.  These locomotives are also in the 2-8-2 (oOOOOo) wheel layout.  Obstruction 8096’s locomotives are in the 2-2-2 (oOo) layout -- which is somewhat rare in America.
+
+
+No one knows how they came to be at the bottom of the Atlantic.
+
+
+There are no remains of a shipwreck apparent at the site.  The locomotives are slightly askew, so if they had been secured to a barge they should be parallel.  They are however very close to each other, so they were likely washed overboard rather than being jettisoned by the crew one-by-one.
+
+
+They are also not World War II era locomotives.  They appear to be rare *Planet Class 2-2-2 T* models.  These were produced for a short time in the 1850s (the short duration was because they were obsolete almost as soon as they were produced).
+
+
+In fact, they are two of the oldest remaining steam locomotives built in the United States.
+
+
+The only markings were found on the whistle which read “H.N. Hooper, Boston, #3.”
+
+
+They appear to have been submerged shortly after being built, as similar engines that survive today have experienced numerous refits with more modern parts.  These locomotives still have 1850s style parts.
+
+
+There is no historical record of these locomotives being lost.  Nor is there any historical record of these locomotives even being built (or of this exact model).
+
+
+It’s been theorized that they were lost in a storm five miles off the coast of Long Branch, New Jersey during a storm while being transported from Boston.  They were either pushed off their ship deliberately or were washed overboard.
+
+
+But questions remain.  If they were pushed or washed overboard, why are they still upright?  How did they remain so close together?  Any why didn’t they sink into the sand?
+
+
+Most of all: *how did they get here?*
+
+This wreck site was featured in *Underwater Train Wreck* episode of *Deep Sea Detectives*.
+
+
+**Links**
+
+
+*Daily Mail:*
+
+<https://www.dailymail.co.uk/news/article-2280832/New-Jerseys-deep-sea-train-graveyard-Locomotives-lost-1850s-preserved-90-feet-water.html>
+
+
+*Vintage News:*
+
+<https://www.thevintagenews.com/2016/06/14/underwater-train-graveyard-discovered/>
+
+
+*AquaViews:*
+
+<https://www.leisurepro.com/blog/scuba-dive-destinations/new-jerseys-mysterious-underwater-train-wreck-site/>
+
+
+*Video of the wreck site:*
+
+<https://www.youtube.com/watch?v=hE4IbZj5JS4>
+
+
+*NOAA:*
+
+<https://www.nauticalcharts.noaa.gov/data/wrecks-and-obstructions.html>
+
+
+<!-- *New Jersey Scuba Diving Locomotive Site Summary:*
+
+<https://njscuba.net/sites/site_locomotives.php>
+
+
+*New Jersey Scuba Diving Arundo Site Summary:*
+
+<https://njscuba.net/sites/site_mud_hole.php#Arundo>
+
+
+*New Jersey Museum of Transportation:*
+
+<http://www.njmt.org/images/SunkenLocoInfoArticles.pdf> -->
+
+
+*Locomotive Wheel arrangement:*
+
+<https://en.wikipedia.org/wiki/Wheel_arrangement>

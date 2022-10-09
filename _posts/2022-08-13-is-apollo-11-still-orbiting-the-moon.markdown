@@ -4,6 +4,8 @@ title:  "Is Apollo 11's Lunar Module Still Orbiting The Moon?"
 date:   2022-08-13 -0700
 categories:
 ---
+![](/mysteries/images/Apollo11AscentStage.jpg)
+
 At some point in my life I learned that anything left in lunar orbit either (1) crashed into the moon (due to its non uniform gravity) or (2) fell into heliocentric orbit.
 
 

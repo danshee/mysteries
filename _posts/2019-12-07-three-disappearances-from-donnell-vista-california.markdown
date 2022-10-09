@@ -4,17 +4,16 @@ title:  "Three Disappearances from Donnell Vista, California"
 date:   2019-12-07 -0700
 categories:
 ---
-This write up is a summary of publicly available information from the Mineral County Independent News, the Eagle Canyon Flyer, and the Charley Project.
+![View from Donnell Vista, California](/mysteries/images/ViewFromDonnellVistaCalifornia.jpg)
 
-
-<br>
+*Donnell Lake seen from Donnell Vista, California.*
 
 ----
 
 <br>
 
 
-The Donnell Vista is a small scenic area in the Sierra Nevadas mountain range on California State Route 108.  It overlooks Donnell Lake, a reservoir that was formed by damming the Stanislaus River.  This area is north of Yosemite National Park and south of Lake Tahoe.
+*Donnell Vista* is a small scenic area in the *Sierra Nevadas* mountain range on *California State Route 108*.  It overlooks *Donnell Lake*, a reservoir that was formed by damming the *Stanislaus River*.  This area is north of *Yosemite National Park* and south of *Lake Tahoe*.
 
 
 **Nita Mayo**

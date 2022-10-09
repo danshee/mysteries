@@ -5,6 +5,8 @@ date:   2022-08-20 -0700
 categories:
 ---
 
+![](/mysteries/images/TheGalileanMoons.jpg)
+
 I first heard this tale on the radio (likely the science program *Quirks and Quarks* on CBC) back in the early 1980s.  The story as I remembered it purported that the [moons of Jupiter](https://en.wikipedia.org/wiki/Galilean_moons) were observed with the naked eye by Chinese astronomers long before Galileo had seen them.
 
 

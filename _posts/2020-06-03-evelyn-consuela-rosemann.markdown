@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "The Strange and Violent Death of Evelyn Consuela Rosemann in Yosemite National Park"
-date:   2019-10-01 -0700
+date:   2020-06-03 -0700
 categories:
 ---
 ![](/mysteries/images/NevadaFall.jpg)

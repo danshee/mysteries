@@ -51,7 +51,7 @@ An autopsy revealed that she had died the previous day and had suffered “sever
 How did she manage to go over the fall?  It was October and cool, so it was unlikely she went swimming (also unlikely she would have worn pants and a sweater in the water).
 
 
-Also, the river flows quite low that time of year, giving someone who falls in some chance of self-rescue before going over (see my linked photo comparing the fall in spring vs autumn).
+Also, the river flows quite low that time of year, giving someone who falls in some chance of self-rescue before going over.
 
 
 When discovered, her body had already been moved from the point of impact.  Traces of the material of her pants were found closer to the fall.  Portions of her brain matter were found on a rock about 50 feet towards the center of the stream.

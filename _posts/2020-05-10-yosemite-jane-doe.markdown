@@ -65,6 +65,17 @@ Jane Doe’s jawbone has never been found, so the reconstruction on the NamUs pa
 *Will we ever know who she is?*
 
 
+**Update:**
+
+In 2021, Special Agents of the NPS Investigative Services Branch (ISB) working with Marshall University and Parabon Nanolabs identified Jane Doe.
+
+At the request of her family, her identify has not been made public.
+
+----
+
+<br>
+
+
 **Links**
 
 *National Park Service Cold Cases:*
@@ -72,9 +83,9 @@ Jane Doe’s jawbone has never been found, so the reconstruction on the NamUs pa
 <https://www.nps.gov/orgs/1563/cold-cases.htm>
 
 
-*NamUs:*
+*Phenotyping, Genetic Genealogy Help ID Jane Doe Found at Yosemite in 1983:*
 
-<https://www.namus.gov/UnidentifiedPersons/Case#/53329>
+<https://www.forensicmag.com/581223-Phenotyping-Genetic-Genealogy-Help-ID-Jane-Doe-Found-at-Yosemite-in-1983/>
 
 
 *Henry Lee Lucas Wikipedia page:*

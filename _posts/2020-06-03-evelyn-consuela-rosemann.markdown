@@ -4,7 +4,11 @@ title:  "The Strange and Violent Death of Evelyn Consuela Rosemann in Yosemite N
 date:   2020-06-03 -0700
 categories:
 ---
-![](/mysteries/images/NevadaFall.jpg)
+![Nevada Fall, Yosemite National Park](/mysteries/images/NevadaFall.jpg)
+
+*Nevada Fall Water Levels (fall on the left; spring on the right).*
+
+<br>
 
 **Summary**
 

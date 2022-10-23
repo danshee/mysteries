@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "A Mitchell B-25 Bomber That Crashed and Sank Into the Monongahela River in the Winter of 1956 Has Never Been Found -- Was It Carrying a Secret Cargo or Passenger?"
+title:  "A Mitchell B-25 Bomber That Crashed and Sank Into the Monongahela River in the Winter of 1956 Has Never Been Found – Was It Carrying a Secret Cargo or Passenger?"
 date:   2021-01-26 -0700
 categories:
 ---

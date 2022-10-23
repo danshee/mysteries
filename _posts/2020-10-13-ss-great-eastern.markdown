@@ -4,7 +4,7 @@ title:  "Were Workers Entombed Within the SS Great Eastern’s Hull During Its C
 date:   2020-10-13 -0700
 categories:
 ---
-![](https://upload.wikimedia.org/wikipedia/commons/a/a4/Great_Eastern_painting_smooth_sea-2.jpg)
+![](/mysteries/images/GreatEasternPainting.jpg)
 
 
 A November 11, 1930 article in the *Lompoc Review* contained an article entitled *Great Eastern Surely World’s Unluckiest Ship* which gave a brief summary of her history and mythology:

@@ -4,6 +4,10 @@ title:  "How Did a Hoard of 19th Century Gold Coins End up Buried in a Jackson, 
 date:   2020-10-22 -0700
 categories:
 ---
+![](/mysteries/images/1856DQuarterEagle.jpg)
+
+<br>
+
 **Summary**
 
 

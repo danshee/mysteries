@@ -70,7 +70,7 @@ Ray Duquesne, the organizer of this event, said:
 >  there had always been a “lost 17 minutes” mystery about the Air Force’s version of the last leg of the B-25’s flight.
 
 
-**OP Note:** it’s not clear to me from this article if “lost 17 minute” means the Cessna experiment took (1) 17 minutes longer than expected or (2) 17 minutes shorter than expected.
+**Note:** it’s not clear to me from this article if “lost 17 minute” means the Cessna experiment took (1) 17 minutes longer than expected or (2) 17 minutes shorter than expected.
 
 
 This article claims that some believe that the crash never even happened.

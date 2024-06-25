@@ -4,6 +4,8 @@ title:  "The Camel Riding Corpse"
 date:   2019-11-25 -0700
 categories:
 ---
+![](/mysteries/images/CamelRidingCorpse.png)
+
 Aka “The Red Ghost” and “Fantasia Colorado.”
 
 **Incidents**

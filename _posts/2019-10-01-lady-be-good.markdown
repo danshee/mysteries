@@ -4,6 +4,8 @@ title:  '“Lady Be Good” Will Not Return; or, What Became of Staff Sergeant V
 date:   2019-10-01 -0700
 categories:
 ---
+![](/mysteries/images/LadyBeGood.jpg)
+
 **Summary**
 
 Vernon L. Moore was a Staff Sergeant aboard *Lady Be Good*, a B-24 Liberator that disappeared without a trace on her first combat mission of World War II.

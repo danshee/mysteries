@@ -4,6 +4,7 @@ title:  "Edward Brian McCleary's Escape from a Sea Monster"
 date:   2020-05-17 -0700
 categories:
 ---
+![](/mysteries/images/EdwardBrianMcClearySeaMonster.png)
 
 This happened in March of 1962 in the waters around Pensacola, Florida.
 

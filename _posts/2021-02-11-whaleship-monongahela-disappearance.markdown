@@ -4,7 +4,7 @@ title:  "The 1850s Disappearance of the Whaleship Monongahela -- Did They Really
 date:   2021-02-11 -0700
 categories:
 ---
-![](/mysteries/images/UsborneMonstersMononhagela.jpg)
+![](/mysteries/images/MonongahelaSeaMonster.jpg)
 
 This write-up is about the real world disappearance of the whaleship *Monongahela* and the story of her alleged encounter with a Sea Monster.
 

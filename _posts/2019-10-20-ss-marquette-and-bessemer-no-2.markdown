@@ -4,6 +4,7 @@ title:  "In 1909 the SS Marquette & Bessemer No. 2 vanished into a Lake Erie sto
 date:   2019-10-20 -0700
 categories:
 ---
+![](/mysteries/images/Marquette_&_Bessemer_No_2.jpg)
 
 **Summary**
 

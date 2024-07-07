@@ -4,7 +4,7 @@ title:  "The Disappearance of Jim Carter from Ape Canyon – Did the “Apes” 
 date:   2020-06-07 -0700
 categories:
 ---
-![](/mysteries/images/MountSaintHelensDogsHead.jpg)
+![](/mysteries/images/JimCartersTrail.jpg)
 
 
 This write up is about a famous disappearance that has since become incorporated into Bigfoot lore.  It covers the 1966 source that made the disappearance famous, followed by two contemporary 1950 newspaper articles that contain somewhat different details.

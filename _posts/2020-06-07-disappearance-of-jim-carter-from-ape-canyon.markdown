@@ -27,10 +27,10 @@ The 1966 book entitled *Do Abominable Snowmen of America Really Exist?* by Roger
 **Summary of the 1966 reprint of the 1963 Article**
 
 
-Jim Carter, 32, was an experienced skier and mountaineer who disappeared from slopes of Mount St. Helens in May of 1950.  He was with a 20-member climbing party from Seattle.
+Jim Carter, 32, was an experienced skier and mountaineer who disappeared from the slopes of Mount St. Helens in May of 1950.  He was with a 20-member climbing party from Seattle.
 
 
-Dr. Bob Lee, a well known Portland mountaineer and member of the Seattle Mountain Search and Rescue, said, "Dr. Otto Trott, Lee Stark and I finally came to the conclusion that the *apes* got him." (Note: the 1966 book uses the term *apes* but some online sources I found use the term *mountain devils*).
+Bob Lee, a well known Portland mountaineer and member of the Seattle Mountain Search and Rescue, said, "Dr. Otto Trott, Lee Stark and I finally came to the conclusion that the *apes* got him." (Note: the 1966 book uses the term *apes* but some online sources I found use the term *mountain devils*).
 
 
 Lee described the search for Carter as “the most eerie experience I have ever had.”  Every time Lee found himself alone, he felt that he was being watched.
@@ -54,7 +54,7 @@ His discarded film box was found where he had taken a picture.  From that point,
 Carter’s tracks reached the side of Ape Canyon but they didn’t find him at the bottom at all.  As many as 75 persons spent the next five days searching the canyon, but no trace of Carter was ever found.  The search was called off after two weeks.
 
 
-If Dr. Lee saw large footprints near Carter’s ski tracks then that detail was missing from the article.
+If Lee saw large footprints near Carter’s ski tracks then that detail was missing from the article.
 
 
 
@@ -85,7 +85,7 @@ The article also says, “Carter apparently abandoned his skis late Sunday or ea
 The article ends by mentioning the “apemen” that were believed by some indigenous peoples to inhabit the valley, and also refers to the 1924 incident which gave the canyon its name.
 
 
-Neither of the 1950 articles mentioned Dr. Lee (of course, there were as many as 75 people involved in the search)
+Neither of the 1950 articles mentioned Lee (of course, there were as many as 75 people involved in the search)
 
 
 **Questions**

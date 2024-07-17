@@ -4,6 +4,8 @@ title:  "The 1964 Disappearance of Charles Ogle and his Cessna 210A Aircraft"
 date:   2020-08-10 -0700
 categories:
 ---
+![](/mysteries/images/Cessna210AAircraft.jpg)
+
 **The Disappearance**
 
 

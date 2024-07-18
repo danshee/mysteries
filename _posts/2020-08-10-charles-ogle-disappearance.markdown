@@ -40,7 +40,7 @@ Fossett disappeared on September 3, 2007 after taking off from a private airstri
 However, according to wikipedia, only one of the crashed aircraft was “partially identified” and that Charles Ogle remains missing.
 
 
-**Note**: I tried to Google if any of these eight crash sites have since been identified (and also asked in r/Aviation) but found nothing.
+**Note**: I tried to Google if any of these eight crash sites have since been identified but found nothing.
 
 
 

@@ -5,6 +5,8 @@ date:   2020-03-08 -0700
 categories:
 ---
 
+![](/mysteries/images/Precolitsch.jpg)
+
 While I don't believe in the supernatural, I do like the stories.  I thought I’d share this one since it is creepy and unique and there’s little information about this creature online.
 
 ----

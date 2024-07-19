@@ -47,11 +47,14 @@ The article says “Hungarian authorities seem to identify the Precolitsch with 
 
 It’s not clear to me how the being in this story is identified as a Precolitsch.
 
+
 ----
 
 
-**Links / Credits:**
+
+**Links / Credits**
+
 
 *The Occult Review article:*
 
-<http://iapsop.com/archive/materials/occult_review/occult_review_v18_n3_sep_1913.pdf>
+<https://web.archive.org/web/20220801062123/http://iapsop.com/archive/materials/occult_review/occult_review_v18_n3_sep_1913.pdf>

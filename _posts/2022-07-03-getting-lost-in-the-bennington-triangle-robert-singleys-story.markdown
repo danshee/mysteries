@@ -4,6 +4,8 @@ title:  "Getting lost in the Bennington Triangle - Robert Singleys Story"
 date:   2022-07-03 -0700
 categories:
 ---
+![](/mysteries/images/BenningtonTriangle.jpg)
+
 I don’t usually pay attention to Bennington Triangle stories for the simple reason that I’ve heard them all.
 
 

@@ -4,6 +4,7 @@ title:  "Have you ever found an anomalous or duplicated personal object?"
 date:   2020-06-13 -0700
 categories:
 ---
+![](/mysteries/images/MysteriousHarmonica.jpg)
 
 I don’t believe in the paranormal, but I do love the stories.  Nevertheless, I have had a few “odd” experiences in my life.
 

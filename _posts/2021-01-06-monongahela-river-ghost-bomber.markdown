@@ -4,7 +4,7 @@ title:  "A Mitchell B-25 Bomber That Crashed and Sank Into the Monongahela River
 date:   2021-01-26 -0700
 categories:
 ---
-![](https://www.heinzhistorycenter.org/wp-content/uploads/2016/01/The-Mystery-of-Pittsburghs-Ghost-Bomber-copy-1440x617.jpg)
+![](/mysteries/images/MonongahelaRiverB25.jpg)
 
 <br>
 

@@ -6,7 +6,7 @@ categories:
 ---
 ![Nevada Fall, Yosemite National Park](/mysteries/images/NevadaFall.jpg)
 
-*Nevada Fall Water Levels (fall on the left; spring on the right).*
+<!-- *Nevada Fall Water Levels (fall on the left; spring on the right).* -->
 
 <br>
 

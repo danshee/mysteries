@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Obstruction 8096; or, The Long Branch Locomotive Graveyard"
+title:  "The Mystery of Obstruction 8096"
 date:   2020-05-02 -0700
 categories:
 ---

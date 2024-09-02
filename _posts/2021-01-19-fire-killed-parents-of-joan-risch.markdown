@@ -4,6 +4,8 @@ title:  "The Mysterious Fire That Killed the Parents of Joan Risch"
 date:   2021-01-19 -0700
 categories:
 ---
+![](/mysteries/images/JoanRischFire.jpg)
+
 While the disappearance of Joan Risch is a well-known mystery, I just learned from the *Dark Curiosities* video entitled [The Disappearance of Joan Risch](https://youtu.be/Vr7FMVCUP1A) that Joan was orphaned in a mysterious fire on the night of February 23rd, 1939.
 
 
